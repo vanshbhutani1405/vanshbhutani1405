@@ -1,45 +1,38 @@
 # Vansh 👋
 
-B.Tech student focused on **Machine Learning & AI**, learning by building **end-to-end, production-style projects**.
+> B.Tech student focused on **Machine Learning & AI**, building end-to-end, production-style projects.
 
 ---
 
-## 🧠 Focus Areas
-- Machine Learning & applied AI  
-- End-to-end ML pipelines  
-- Model deployment & real-world debugging  
+## 🧠 Focus | 🛠 Tech | 🚀 Learning
 
----
-
-## 🛠 Tech Stack
-**Languages:** Python, JavaScript, C++  
-**ML & Data:** Pandas, NumPy, Scikit-learn  
-**Backend / Web:** Flask, Node.js, Express.js  
-**Tools:** Git, GitHub  
-**Deployment:** Render  
+| 🧠 Focus Areas | 🛠 Tech Stack | 🚀 Currently Learning |
+|--------------|-------------|----------------------|
+| Machine Learning & AI | Python | Advanced ML |
+| End-to-End ML Pipelines | JavaScript | Model reliability |
+| Model Deployment | Flask | Deployment workflows |
+| Real-world Debugging | Node.js, Express | Scalable ML systems |
+| | NumPy, Pandas, Scikit-learn | |
 
 ---
 
 ## 📌 Featured Projects
 
-### End-to-End ML – Student Performance Prediction
-- Complete ML lifecycle: ingestion → transformation → training → prediction  
-- Modular, industry-style project structure  
-- Logging, custom exceptions, and reproducible pipelines  
-- Flask-based inference layer, deployed on Render  
-
-### FarmCulture – AI Farmer Companion (Hackathon)
-- ML-based crop recommendation system  
-- AI-generated crop insights  
-- Focused on applying ML to real agricultural problems  
+| Project | Description |
+|-------|------------|
+| **End-to-End ML – Student Performance Prediction** | Complete ML lifecycle (ingestion → transformation → training → prediction). Modular industry-style structure with logging, custom exceptions, Flask inference layer, deployed on Render. |
+| **FarmCulture – AI Farmer Companion (Hackathon)** | ML-based crop recommendation system with AI-generated insights, focused on solving real agricultural problems using data and ML. |
 
 ---
 
-## 🌱 Currently Learning
-- Advanced ML concepts  
-- Improving model reliability & deployment workflows  
-- Building scalable ML-powered applications  
+## 🛠 Tools & Ecosystem
+
+| ML & Data | Backend | Dev Tools | Deployment |
+|---------|--------|----------|-----------|
+| Pandas | Flask | Git | Render |
+| NumPy | Node.js | GitHub | |
+| Scikit-learn | Express.js | | |
 
 ---
 
-Learning by **building, breaking, and fixing**.
+**Learning by building. Improving by debugging. Growing by consistency.**
