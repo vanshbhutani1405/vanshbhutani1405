@@ -1,16 +1,45 @@
-## Hi there 👋
+# Vansh 👋
 
-<!--
-**vanshbhutani1405/vanshbhutani1405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech student focused on **Machine Learning & AI**, learning by building **end-to-end, production-style projects**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Focus Areas
+- Machine Learning & applied AI  
+- End-to-end ML pipelines  
+- Model deployment & real-world debugging  
+
+---
+
+## 🛠 Tech Stack
+**Languages:** Python, JavaScript, C++  
+**ML & Data:** Pandas, NumPy, Scikit-learn  
+**Backend / Web:** Flask, Node.js, Express.js  
+**Tools:** Git, GitHub  
+**Deployment:** Render  
+
+---
+
+## 📌 Featured Projects
+
+### End-to-End ML – Student Performance Prediction
+- Complete ML lifecycle: ingestion → transformation → training → prediction  
+- Modular, industry-style project structure  
+- Logging, custom exceptions, and reproducible pipelines  
+- Flask-based inference layer, deployed on Render  
+
+### FarmCulture – AI Farmer Companion (Hackathon)
+- ML-based crop recommendation system  
+- AI-generated crop insights  
+- Focused on applying ML to real agricultural problems  
+
+---
+
+## 🌱 Currently Learning
+- Advanced ML concepts  
+- Improving model reliability & deployment workflows  
+- Building scalable ML-powered applications  
+
+---
+
+Learning by **building, breaking, and fixing**.
