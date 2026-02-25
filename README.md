@@ -53,10 +53,10 @@ Generative AI • Agentic Systems • LLM Orchestration • RAG Pipelines • AI
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vanshbhutani1405&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vanshbhutani1405&theme=darkhub&no-frame=true&no-bg=true&margin-w=10" />
 </p>
 
 ---
