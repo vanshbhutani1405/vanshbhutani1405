@@ -61,20 +61,11 @@ Generative AI • Agentic Systems • LLM Orchestration • RAG Pipelines • AI
 
 ---
 
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vanshbhutani1405&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
----
-
 ## 🏅 Achievements
 
 - 🥇 3rd Prize — University Startup Competition  
 - 🏅 Finalist — Hack On Hills (NIT Hamirpur)  
-- 🏅 Top 5 Finalist — LPU Hackathon  
-- 👨‍💼 Founder — Upstarts (Tech & Startup Club)  
+- 🏅 Top 5 Finalist — LPU Hackathon   
 - 🎓 Class Representative  
 
 ---
