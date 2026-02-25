@@ -53,12 +53,14 @@ Generative AI • Agentic Systems • LLM Orchestration • RAG Pipelines • AI
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏅 Highlights
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vanshbhutani1405&theme=darkhub&no-frame=true&no-bg=true&margin-w=10" />
+  <img src="https://img.shields.io/badge/AI-Engineer-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Generative-AI-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Agentic-Systems-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ML-Pipelines-green?style=for-the-badge"/>
 </p>
-
 ---
 
 ## 🏅 Achievements
