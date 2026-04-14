@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/vansh-62b84a184">LinkedIn</a> •
-  <a href="https://vansh2005.lovable.app">Portfolio</a> •
+  <a href="https://vanshbhutani.me">Portfolio</a> •
   <a href="mailto:vanshbhutani2005@gmail.com">Email</a>
 </p>
 
