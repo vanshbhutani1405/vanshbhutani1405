@@ -29,8 +29,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,sql,tensorflow,sklearn,docker,flask,git,linux,vscode" />
-
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,sql,tensorflow,pytorch,sklearn,docker,fastapi,flask,react,git,github,linux,vscode,mongodb,mysql,postgres,vercel,postman" />
 </p>
 
 ---
