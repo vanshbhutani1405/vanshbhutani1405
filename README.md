@@ -29,7 +29,14 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,sql,tensorflow,pytorch,sklearn,docker,fastapi,flask,react,git,github,linux,vscode,mongodb,mysql,postgres,vercel,postman" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,sql,tensorflow,pytorch,sklearn,docker,fastapi,flask,git,github,linux,vscode,mongodb,mysql,postgres,vercel,postman,anaconda" />
+<p>
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-FF6B35?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/ChromaDB-6A0DAD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Groq-000000?style=for-the-badge" />
+</p>
 </p>
 
 ---
