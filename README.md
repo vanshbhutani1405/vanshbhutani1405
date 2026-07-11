@@ -29,7 +29,6 @@ I build AI systems that ship — not notebooks. Full-stack, production-grade, wi
 - 🏥 Built **PranRakshak AI** — a live ICU command center for early sepsis detection, trained on **40K+ patient records**
 - 🤖 Deep in **LangGraph**, **Agentic Workflows**, **RAG Pipelines**, and **MCP Servers**
 - 🧩 I own products end-to-end: data pipeline → LLM integration → production deployment
-- 🏆 **Founder** of [Upstarts](https://linkedin.com/in/vansh-62b84a184) — Tech & Startup Club @ IKGPTU
 - 🎓 B.Tech CSE @ IKGPTU &nbsp;|&nbsp; **CGPA: 8.65 / 10** &nbsp;|&nbsp; 2023–2027
 
 ---
@@ -40,7 +39,7 @@ I build AI systems that ship — not notebooks. Full-stack, production-grade, wi
 <tr>
 <td>
 
-**🤖 Gen AI Intern** &nbsp;|&nbsp; [Resolute AI Software](https://resoluteaisoftware.in/) &nbsp;|&nbsp; `Jul 2026 – Present`
+**🤖 Gen AI Intern** &nbsp;|&nbsp; [Resolute AI Software](https://resoluteaisoftware.in/) &nbsp;|&nbsp; `Jun 2026 – Present`
 
 Building AI-powered browser automation workflows using **Playwright + LLM integration** to automate complex multi-step web interactions. Developing agentic systems that combine LLM reasoning with real-time browser state for autonomous task execution.
 
