@@ -54,66 +54,7 @@ Built an end-to-end ML pipeline on structured HR data achieving **87.6% accuracy
 
 </td>
 </tr>
-</table>
-
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🏥 PranRakshak AI
-**Intelligent ICU Command Center for Early Sepsis Detection**
-
-Real-time sepsis early-warning on **40K+ ICU records** (PhysioNet CinC 2019). Patient priority queue, SHAP explainability per patient, RAG clinical copilot on **Groq Llama 3.3 70B + Llama 4 Scout** — with strict patient-safety boundary separating OCR from ML model.
-
-`FastAPI` `LangGraph` `RAG` `SHAP` `React/Vite` `PostgreSQL` `Groq` `Vercel`
-
-[🌐 Live](https://pranrakshak-ai.vercel.app/) &nbsp;·&nbsp; [📦 GitHub](https://github.com/vanshbhutani1405/PranRakshak-AI-MAIN)
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 Agentic Intelligence Toolkit
-**Multi-Module LangGraph System for an AI-Focused VC Firm**
-
-Three independent agentic modules built for real-time VC research workflows — **Corridor Atlas** (market corridor intelligence), **AI MoatLens** (competitive moat analysis), **SwarmSpace Navigator** (multi-agent ecosystem mapping) — on Supabase pgvector + Groq.
-
-`LangGraph` `FastAPI` `Groq` `Supabase pgvector` `React/Vite`
-
-[🌐 Live](https://together-intelligence-toolkit.vercel.app/dashboard) &nbsp;·&nbsp; [📦 GitHub](https://github.com/vanshbhutani1405/Together-Intelligence-Toolkit)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📚 RAGify
-**Multi-Document AI Knowledge Assistant**
-
-Designed **isolated retrieval pipelines per document** to eliminate cross-domain context leakage — a deliberate architectural decision that improves answer fidelity across concurrent multi-document sessions. LangSmith tracing integrated.
-
-`LangChain` `ChromaDB` `HuggingFace` `FastAPI` `Next.js` `LangSmith`
-
-[🌐 Live](https://ragify-vansh.vercel.app/) &nbsp;·&nbsp; [📦 GitHub](https://github.com/vanshbhutani1405/RAGify)
-
-</td>
-<td width="50%" valign="top">
-
-### 🔍 Quora Question Pairs
-**NLP Semantic Similarity Detection**
-
-TF-IDF + semantic features across **400K+ question pairs**. Achieved **79% accuracy** and **F1 of 0.70** with classical ML. Benchmarked transformer embeddings to quantify the accuracy-latency tradeoff.
-
-`Scikit-learn` `TF-IDF` `Transformers` `Streamlit`
-
-[🌐 Live](https://quora-question-pairs-nlp.streamlit.app) &nbsp;·&nbsp; [📦 GitHub](https://github.com/vanshbhutani1405/Quora-Question-Pairs-NLP)
-
-</td>
-</tr>
-</table>
+</table
 
 ---
 
