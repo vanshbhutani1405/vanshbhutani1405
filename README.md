@@ -96,11 +96,9 @@ Built an end-to-end ML pipeline on structured HR data achieving **87.6% accuracy
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
 
-**Frontend & Languages**
+**Programming Languages**
 
-![React](https://skillicons.dev/icons?i=react&theme=dark)
-![Next.js](https://skillicons.dev/icons?i=nextjs&theme=dark)
-![Vite](https://skillicons.dev/icons?i=vite&theme=dark)
+![Python](https://skillicons.dev/icons?i=python&theme=dark)
 ![JavaScript](https://skillicons.dev/icons?i=js&theme=dark)
 ![C++](https://skillicons.dev/icons?i=cpp&theme=dark)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
@@ -119,14 +117,6 @@ Built an end-to-end ML pipeline on structured HR data achieving **87.6% accuracy
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=vanshbhutani1405&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=1A56CC&currStreakLabel=58A6FF" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vanshbhutani1405&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7"/>
 </div>
 
 ---
