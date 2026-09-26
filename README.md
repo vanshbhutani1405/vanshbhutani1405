@@ -29,7 +29,7 @@ I build AI systems that ship — not notebooks. Full-stack, production-grade, wi
 - 🏥 Built **PranRakshak AI** — a live ICU command center for early sepsis detection, trained on **40K+ patient records**
 - 🤖 Deep in **LangGraph**, **Agentic Workflows**, **RAG Pipelines**, and **MCP Servers**
 - 🧩 I own products end-to-end: data pipeline → LLM integration → production deployment
-- 🎓 B.Tech CSE @ IKGPTU &nbsp;|&nbsp; **CGPA: 8.65 / 10** &nbsp;|&nbsp; 2023–2027
+- 🎓 B.Tech CSE @ IKGPTU &nbsp;|&nbsp; **CGPA: 9.41 / 10** (6th sem) &nbsp;|&nbsp; 2023–2027
 
 ---
 
