@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Gen+AI+Intern+%40+Resolute+AI+Software;LangGraph+%7C+RAG+%7C+Agentic+Workflows+%7C+MCP+Servers;FastAPI+%7C+Voice+AI%2FVite+%7C+Docker;Building+AI+Systems+that+Ship+to+Production;From+Data+Pipeline+%E2%86%92+LLM+%E2%86%92+Deployment" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Gen+AI+Intern+%40+Resolute+AI+Software;LangGraph+%7C+RAG+%7C+Agentic+Workflows+%7C+MCP+Servers;FastAPI+%7C+Voice+AI+%7C+Docker;Building+AI+Systems+that+Ship+to+Production;From+Data+Pipeline+%E2%86%92+LLM+%E2%86%92+Deployment" />
 </a>
 
 <br/>
