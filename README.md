@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Gen+AI+Intern+%40+Resolute+AI+Software;LangGraph+%7C+RAG+%7C+Agentic+Workflows+%7C+MCP+Servers;FastAPI+%7C+React%2FVite+%7C+Docker+%7C+Playwright;Building+AI+Systems+that+Ship+to+Production;From+Data+Pipeline+%E2%86%92+LLM+%E2%86%92+Deployment" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Gen+AI+Intern+%40+Resolute+AI+Software;LangGraph+%7C+RAG+%7C+Agentic+Workflows+%7C+MCP+Servers;FastAPI+%7C+Voice+AI%2FVite+%7C+Docker;Building+AI+Systems+that+Ship+to+Production;From+Data+Pipeline+%E2%86%92+LLM+%E2%86%92+Deployment" />
 </a>
 
 <br/>
@@ -11,7 +11,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vansh-62b84a184)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vanshbhutani.me)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanshbhutani2005@gmail.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/vanshbhutani)
 
 <br/>
 
